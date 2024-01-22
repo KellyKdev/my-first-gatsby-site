@@ -12,7 +12,8 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "clean-dev": "gatsby clean & gatsby develop"
   },
   "dependencies": {
     "gatsby": "^5.13.1",
